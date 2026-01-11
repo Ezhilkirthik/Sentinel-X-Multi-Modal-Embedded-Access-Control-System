@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# MicroPython specific (optional)
+pymakr.conf
+.micropy.json
